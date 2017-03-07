@@ -1,0 +1,3 @@
+Download the SRx Reports here from:
+https://gallery.technet.microsoft.com/SRx-Core-SharePoint-Search-d60113e9
+The result should have the initSRx.ps1 script here and the folders below.
